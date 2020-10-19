@@ -1,0 +1,9 @@
+main: me.steelhayb.morecommands.Main
+name: MoreCommands
+version: 1.0
+author: Steelhayb
+description: An extra list of commands to use.
+
+commands:
+  shout:
+  heal:

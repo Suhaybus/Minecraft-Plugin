@@ -1,0 +1,13 @@
+tracking_message: '&aCompass is now pointing to <player>.'
+
+joinhunters_message: '&7You have joined the &cHunters.'
+
+joinspeedrunners_message: '&7You have joined the &aSpeedrunners.'
+
+leaveteam_message: '&7You are no longer in a team!'
+
+inhunters_message: '&7You are in the &cHunters &7team.'
+
+inspeedrunners_message: '&7You are in the &aSpeedrunners &7team.'
+
+notinteam_message: '&cYou are not in a team!'

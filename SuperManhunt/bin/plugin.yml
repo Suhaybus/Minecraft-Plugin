@@ -1,0 +1,11 @@
+main: me.steelhayb.supermanhunt.Main
+name: SuperManhunt
+version: 1.0
+author: Steelhayb
+description: Speedrunner and Angel vs Demons
+
+commands:
+  team:
+  player:
+  gmsp:
+  roll:

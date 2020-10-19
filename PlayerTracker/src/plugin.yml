@@ -1,0 +1,11 @@
+main: me.steelhayb.playertracker.Main
+name: ManhuntTracker
+version: 1.3
+author: Steelhayb
+description: Teams are working! This should be the final version :)
+
+commands:
+  join:
+  leave:
+  team:
+  player:

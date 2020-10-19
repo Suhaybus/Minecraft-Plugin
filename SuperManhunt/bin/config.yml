@@ -1,0 +1,21 @@
+noconsole_message: '&cOnly players may execute this command!'
+
+error_message: '&cError! Invalid arguments!'
+
+isAngel_message: '&7You are in the &6Angel team.'
+
+isSpeedrunner_message: '&7You are in the &aSpeedrunners &7team.'
+
+isDemon_message: '&7You are in the &cDemon &7team.'
+
+notinteam_message: '&cYou are not in a team!'
+
+leaveteam_message: '&7You are no longer in a team!'
+
+joinAngel_message: '&7You are now an &6Angel.'
+
+joinSpeedrunner_message: '&7You are now a &aSpeedrunner.'
+
+joinDemons_message: '&7You are now a &cDemon.'
+
+tracking_message: '&aCompass is now pointing to <player>.'

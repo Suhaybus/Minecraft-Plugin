@@ -1,0 +1,7 @@
+main: me.steelhayb.helloworld2.Main
+name: Hello
+version: 1.0
+author: Steelhayb
+
+commands:
+  Hello:

@@ -1,0 +1,9 @@
+main: me.suhayb.testing.Main
+name: Testing
+version: 1.0
+author: Steelhayb
+description: This is for testing things that i want to implement on my plugins. I am using this as a debugging tool.
+
+commands:
+  gmsp:
+  give:
